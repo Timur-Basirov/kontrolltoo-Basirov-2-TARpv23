@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kontrolltoo Basirov 2 TARpv23", "kontrolltoo Basirov 2 TARpv23.pyproj", "{A040C20C-287D-4A44-9B1D-E56E50CC5FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A040C20C-287D-4A44-9B1D-E56E50CC5FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A040C20C-287D-4A44-9B1D-E56E50CC5FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {977668BD-7CA0-490A-A2C5-54F07649AE05}
+	EndGlobalSection
+EndGlobal
